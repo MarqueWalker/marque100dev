@@ -1,8 +1,10 @@
 <h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
+- <b>Python/ Python Penetration Testing </b>
+  
+  
   
 
 <h2> Certifications
@@ -11,47 +13,47 @@
 Cybersecurity Analyst
   
   
-IBM - SIEM
+- <b>IBM - SIEM
   
-IBM - Endpoint Protection
+- <b>IBM - Endpoint Protection
   
-IBM - Knowledge of Cybersecurity Tools
+- <b>IBM - Knowledge of Cybersecurity Tools
   
-IBM - System & Network Fundamentals
+- <b>IBM - System & Network Fundamentals
   
-IBM - Compliance & Threat Intelligence
+- <b>IBM - Compliance & Threat Intelligence
   
-IBM - Cybersecurity Tools & Cyber Attacks
+- <b>IBM - Cybersecurity Tools & Cyber Attacks
   
-IBM - Penetration Testing & Incident Forensic
+- <b>IBM - Penetration Testing & Incident Forensic
   
-IBM - Network Security & Database Vulnerabilities
+- <b>IBM - Network Security & Database Vulnerabilities
   
-IBM - Cybersecurity Roles, Operating System Security
+- <b>IBM - Cybersecurity Roles, Operating System Security
   
-IBM - Cybersecurity Compliance Framework & System
+- <b>IBM - Cybersecurity Compliance Framework & System
   
   
   
 INFOSEC
   
   
-Stages of Incident Response
+- <b>Stages of Incident Response
   
   
 John Hopkins University
   
-HIPPA Compliance & Reporting
+- <b>HIPPA Compliance & Reporting
   
-Security & Privacy within Healthcare
+- <b>Security & Privacy within Healthcare
   
-Health Information Technology Fundamentals
+- <b>Health Information Technology Fundamentals
   
-Data Sources & Data utilization in healthcare
+- <b>Data Sources & Data utilization in healthcare
   
-Healthcare Data Security Privacy & Compliance
+- <b>Healthcare Data Security Privacy & Compliance
   
-The Critical Role of IT Support Staff in Healthcare
+- <b>The Critical Role of IT Support Staff in Healthcare
 
 <h2> 🤳 Connect with me:</h2>
 
