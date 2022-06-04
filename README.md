@@ -22,6 +22,7 @@
 
   
 Cybersecurity Analyst
+  
 IBM - SIEM
   
 IBM - Endpoint Protection
@@ -42,12 +43,11 @@ IBM - Cybersecurity Roles, Operating System Security
   
 IBM - Cybersecurity Compliance Framework & System
   
+  
+  
 INFOSEC
   
 Stages of Incident Response
-  
-Google - Google Project Management (In Progress)
-Google - Google Analytics ( In Progress)
   
   
 John Hopkins University
