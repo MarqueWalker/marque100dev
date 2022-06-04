@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Cybersecurity Professional</a>, <a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
