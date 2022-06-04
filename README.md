@@ -41,7 +41,9 @@ INFOSEC
 - <b>Stages of Incident Response
   
   
-John Hopkins University
+
+  
+  John Hopkins University
   
 - <b>HIPPA Compliance & Reporting
   
