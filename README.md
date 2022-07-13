@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Software Engineer</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -47,15 +47,13 @@ INFOSEC
   
 - <b>HIPPA Compliance & Reporting
   
-- <b>Security & Privacy within Healthcare
+
   
-- <b>Health Information Technology Fundamentals
+
   
-- <b>Data Sources & Data utilization in healthcare
+
   
-- <b>Healthcare Data Security Privacy & Compliance
-  
-- <b>The Critical Role of IT Support Staff in Healthcare
+
 
   
   
@@ -63,8 +61,6 @@ INFOSEC
 <h2> 🚀🌎 AFFILIATIONS </h2>
 
 - International Privacy Professional
-- Healthcare Information & Management System Society
-- CISO Healthcare Exchange Project Management
 - Institute Data Visualization Society
 - Kappa Alpha PSI
 
