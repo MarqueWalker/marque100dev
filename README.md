@@ -43,9 +43,7 @@ INFOSEC
   
 
   
-  John Hopkins University
-  
-- <b>HIPPA Compliance & Reporting
+ 
   
 
   
