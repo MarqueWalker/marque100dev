@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marque! <br/><a href="https://github.com/nemsis310">Data Privacy</a>, <a href="https://www.linkedin.com/in/marque-walker-99685333/">Software Engineer</a>, 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Software Engineer Projects:</h2>
 
 - <b>Python/ Python Penetration Testing </b>
   
