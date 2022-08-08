@@ -59,7 +59,7 @@
 
 - 🔭 I’m currently working on Software Engineer:Junior Fullstack Developer Cohort #100Devs
 - 🌱 I’m currently learning: HTML, CSS, Javascript, Angular, React, MySQL,Bootstrap 4 and API Testing using JMeter Tool
-- 👯 I’m looking to collaborate on anything software engineer related
+- 👯 I’m looking to collaborate on anything software engineering related
 - 🤔 I’m looking for learn as much as possible
 - 📫 How to reach me:  https://www.linkedin.com/in/marque-walker-99685333
 - ⚡ Fun fact: I Love traveling and going to the beach.
