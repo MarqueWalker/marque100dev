@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
-- <b>Python/ Python Penetration Testing </b>
+
   
   
   
@@ -10,9 +10,9 @@
 <h2> Certifications</h2>
 
   
-Cybersecurity Analyst (IBM)
-
-Incident Response
+- Cybersecurity Analyst (IBM)
+- Python/ Python Penetration Testing </h>
+- Incident Response
   
   
 
@@ -39,9 +39,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Software Engineer:Junior Fullstack Developer Cohort #100Devs
 - 🌱 I’m currently learning: HTML, CSS, Javascript, Angular, React, MySQL, and API Testing using JMeter Tool
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on anything software engineer related
+- 🤔 I’m looking for learn as much as possible
 - 📫 How to reach me:  https://www.linkedin.com/in/marque-walker-99685333
 - ⚡ Fun fact: I Love traveling and going to the beach.
 
