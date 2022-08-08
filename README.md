@@ -56,7 +56,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Software Engineer:Junior Fullstack Developer Cohort #100Devs
 - 🌱 I’m currently learning: HTML, CSS, Javascript, Angular, React, MySQL,Bootstrap 4 and API Testing using JMeter Tool
