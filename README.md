@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marque <a href="https://www.linkedin.com/in/marque-walker-99685333/">Software Engineer: Junior Fullstack Developer </a>, 
+<h1>Hi, I'm Marque <a href="https://www.linkedin.com/in/marque-walker-99685333/">Software Engineer: Junior Fullstack Developer </a>
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
@@ -7,10 +7,11 @@
   
   
 
-<h2> Certifications
+<h2> Certifications</h2>
 
   
 Cybersecurity Analyst (IBM)
+
 Incident Response
   
   
