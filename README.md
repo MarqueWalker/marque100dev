@@ -35,14 +35,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## 📝 Top Blog Posts
 
--   [Frontend Testing Techniques](https://medium.com/faun/frontend-testing-techniques-71f1cfebe917)
--   [8 React Open-Source projects to learn and become a React.js Developer](https://medium.com/datadriveninvestor/8-react-open-source-projects-to-learn-and-become-a-react-js-developer-8376107730c4)
--   [Understand NFT in Simple Words](https://medium.com/coinmonks/understand-nft-in-simple-words-2df9ce3fa4fb)
--   [Journey to Become a Blockchain Developer](https://medium.com/coinmonks/journey-to-become-a-blockchain-developer-ae31d062eb3a)
--   [Are we in NFT Bubble?](https://medium.com/coinmonks/are-we-in-nft-bubble-8a763f25b760)  
-  
   
 
 <h2> Certifications</h2>
