@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:  https://www.linkedin.com/in/marque-walker-99685333
-- ⚡ Fun fact: I Love to traveling and going to the beach.
+- ⚡ Fun fact: I Love traveling and going to the beach.
 
 
 
