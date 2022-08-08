@@ -9,7 +9,7 @@
 
 <h2> Certifications</h2>
 
-  
+- Project Management
 - Cybersecurity Analyst (IBM)
 - Python/ Python Penetration Testing </h>
 - Incident Response
@@ -27,7 +27,7 @@
 - Software Engineer: Junior Fullstack Developer Cohort #100Devs
 - Institute Data Visualization Society
 - Kappa Alpha PSI
--->
+
   
 
 
