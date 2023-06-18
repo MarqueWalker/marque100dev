@@ -32,6 +32,8 @@
 
 - Project Management
 - Cybersecurity Analyst (IBM)
+- Google Data Analytics
+- AWS Solution Architect
 - Python/ Python Penetration Testing </h>
 - Incident Response
   
